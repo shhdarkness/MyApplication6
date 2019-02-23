@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         String s1 = "test";
 
 
-
+        int i = 3;
 
 
         getContactList();
