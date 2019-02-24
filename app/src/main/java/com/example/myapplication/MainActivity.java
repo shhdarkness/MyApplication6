@@ -18,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
         String s = "test";
         String s1 = "test";
         String s3 = "test3";
+        String s3 = "test3";
+        String s3 = "test3";
+        String s3 = "test3";
+        String s3 = "test3";
 
         int i = 3;
 
