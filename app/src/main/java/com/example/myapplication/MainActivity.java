@@ -29,7 +29,10 @@ public void test2(){
 
 }
 public void test3(){
-int i2 = 3;
+    int i2 = 3;
+    int i3 = 3;
+    int i4 = 3;
+    int i5 = 3;
 }
 
 
